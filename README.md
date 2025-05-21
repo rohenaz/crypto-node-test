@@ -22,7 +22,7 @@
 
 ## Details
 
-The Node.js version used during this test was v22.2.0.
+The Node.js version primarily used for testing and demonstrating this issue was v22.2.0. The issue has also been confirmed to persist in Node.js v24.0.2.
 
 ### Explanation of the Issue
 
