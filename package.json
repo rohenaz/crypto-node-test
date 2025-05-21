@@ -1,0 +1,20 @@
+{
+  "name": "bitcoin-auth-test",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@bsv/sdk": "^1.5.2",
+    "bitcoin-auth": "^0.0.4"
+  }
+}
