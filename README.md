@@ -1,3 +1,5 @@
+This repository demonstrates an issue with the `@bsv/sdk` when using its `PrivateKey.fromRandom()` method in a Node.js ESM (ECMAScript Module) environment, specifically concerning its cryptographic random number generator detection.
+
 ## Reproducing the Error
 
 1.  **Clone the repository:**
